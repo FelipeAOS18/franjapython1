@@ -12,3 +12,7 @@ print(numero)
 #5 No pueden ser un numero
 #Reglas de procedimiento
 print(5+(5*2))
+#2.- Numeros decimales
+numero_decimal = 3,5
+#3.- Cadenas de texto 
+
