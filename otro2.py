@@ -1,4 +1,4 @@
-pesos= input("ingrese la cantidad de pesos chilenos =    ")
+pesos= input("ingrese la cantidad de pesos chilenos = ")
 pesos=float(pesos)
 valor_dolar= 806
 dolares= pesos/valor_dolar

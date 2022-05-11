@@ -42,6 +42,6 @@ else:
     Suma=str(Suma)
     n=str(n)
     print(Suma)
-    print("La suma de los primeros numeros enteros desde 1 hasta "+n+" es "+Suma)
+    print("La suma de los primeros numeros enteros desde 1 hasta"+n+"es  "+Suma)
 
 
