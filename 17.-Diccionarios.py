@@ -1,12 +1,8 @@
-#diccionario
-diccionario={}
-diccionario_capitales={
-    'Chile':'Santiago',
-    'España':'Madrid',
-    'Argentina':'Mendoza'
-}
-print(diccionario_capitales['España'].upper())
+#tuplas
+from __future__ import print_function
 
 
-for pais, capital in diccionario_capitales.items():
-    print(pais)
+nombre=('hola','mundo')
+print(type(nombre))
+dias_semana=('Lu','Ma','Ju','Vi','Sa','Do')
+print(dias_semana)
